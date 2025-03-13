@@ -13,6 +13,7 @@ To **develop AI-powered applications** that are not just innovative but also pra
 I’m working towards launching my own **AI-driven startup**, focused on **automation, optimization, and decision intelligence**. The vision? To **empower businesses and individuals** with cutting-edge AI solutions that simplify processes, enhance efficiency, and unlock new possibilities.  
 
 🚀 Live Projects & Repositories
+
 🔹 Stock Market Analysis & Prediction - Live at https://stock-analysis-app-77.streamlit.app/
 A real-time stock analysis & prediction system that provides insights and forecasts using Prophet & LSTM.
 
