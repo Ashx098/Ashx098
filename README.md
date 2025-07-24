@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m **MYNAMPATI SRI RANGANADHA AVIANSH**  
-
+[![arXiv](https://img.shields.io/badge/arXiv-2507.15904-b31b1b.svg)](https://arxiv.org/abs/2507.15904)
 🚀 **AI Enthusiast | Data Scientist | Tech Innovator**  
 💡 **Passionate about AI-driven solutions that create real-world impact**  
 
