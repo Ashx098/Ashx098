@@ -44,8 +44,6 @@ A **local, privacy-first AI assistant** powered by RAG + multi-LLM routing.
 Published IJRASET paper — hybrid ML + local LLM email assistant with self-learning loop.  
 → End-to-end intelligent email summarizer, prioritizer, and replier.
 
-#### 🧪 [DeepSeek-Coder Experiments](https://github.com/Ashx098/Deepseek-coder)
-Implementations and benchmarking of DeepSeek models, integrating QLoRA and DAPT setups.
 
 ---
 
