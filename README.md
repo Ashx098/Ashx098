@@ -2,7 +2,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2507.15904-b31b1b.svg)](https://arxiv.org/abs/2507.15904)
 🚀 **AI Enthusiast | Data Scientist | Tech Innovator**  
 💡 **Passionate about AI-driven solutions that create real-world impact**  
-
+### Avinash | ML Engineer | Xyne / Asthra AI | LLM Expert
 ### 🔥 **What Drives Me?**  
 I believe in the power of **AI and data-driven decision-making** to transform industries and improve lives. My passion lies in **solving complex problems, optimizing systems, and building intelligent solutions** that go beyond just research—they make a difference.  
 
