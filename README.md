@@ -8,7 +8,7 @@
 ### 🔥 **What Drives Me**
 I’m passionate about **building AI systems that think, adapt, and deliver measurable value.**  
 My work lies at the intersection of:
-- 🧠 **LLM fine-tuning, alignment, and evaluation**
+- 🧠 **LLM fine-tuning, alignment, and evaluation** 1B to 300+B 
 - 🧩 **Efficient training (LoRA, QLoRA, DAPT, CPT, Unsloth, BitsAndBytes)**
 - ⚙️ **RAG & Retrieval Optimization (Vespa, BEIR, custom metrics)**
 - 🧱 **Production AI systems** — from **infra** to **evaluation pipelines**
@@ -18,7 +18,7 @@ My work lies at the intersection of:
 ### 🎯 **Current Focus**
 At **Juspay (Xyne)**, I’m helping design **enterprise-grade AI assistants** that summarize emails, analyze docs, and reason over enterprise data.  
 My contributions include:
-- 🧬 **SFT-Play:** Modular fine-tuning framework (QLoRA-ready, 8 GB VRAM-friendly)  
+- 🧬 **SFT-Play:** Modular fine-tuning framework (LoRA, QLoRA-ready, 8 GB VRAM-friendly - Multi Node H200's)  
 - ⚡ **Play / Xyne-Play:** Juspay’s internal training framework for large-scale LLM evaluation  
 - 📊 **RAG Evaluation Pipelines:** Custom BEIR benchmarking, ranking, and retrieval metrics  
 - 🔍 **Vespa Search Stack:** Integration of GTE, BGE, E5, and Qwen embeddings with ranking profiles  
@@ -30,7 +30,7 @@ My contributions include:
 #### 🧠 [SFT-Play](https://github.com/Ashx098/sft-play)
 Reusable fine-tuning environment supporting LoRA, QLoRA, Unsloth, and BitsAndBytes backends.  
 → VRAM-adaptive training, backend-stamped runs, and TensorBoard logging.  
-⭐ 48+ stars | Used across open-source labs and internal Juspay research.
+⭐ 51+ stars | Used across open-source labs and internal Juspay research.
 
 #### ⚙️ [Xyne / Play](https://github.com/xynehq/play)
 Juspay’s **multi-LLM training and evaluation framework**, co-maintained as open-source.  
