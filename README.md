@@ -1,4 +1,4 @@
-### 👋 Hi, I’m **MYNAMPATI SRI RANGANADHA AVINASH**  
+### 👋 Hi, I’m **MYNAMPATI SRI RANGANADHA AVINASH**  (https://avinash.asthralabs.com/)
 [![arXiv](https://img.shields.io/badge/arXiv-2507.15904-b31b1b.svg)](https://arxiv.org/abs/2507.15904)
 🚀 **ML Engineer @ Juspay (Xyne)** | **LLM Fine-Tuning & RAG Researcher** | **Founder – Asthra AI**
 💡 **Building scalable, privacy-first AI systems that bridge research with real-world impact**
